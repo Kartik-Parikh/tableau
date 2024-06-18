@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://web.resource.org/cc/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" id="svg2" viewBox="0 0 400 400" version="1.0">
+  <defs id="defs4">
+    <linearGradient id="linearGradient2175">
+      <stop id="stop2177" stop-color="#ffffe5" offset="0"/>
+      <stop id="stop2179" stop-color="#f00" offset="1"/>
+    </linearGradient>
+    <filter id="filter3228">
+      <feGaussianBlur id="feGaussianBlur3230" stdDeviation="5.9395913"/>
+    </filter>
+    <filter id="filter3332">
+      <feGaussianBlur id="feGaussianBlur3334" stdDeviation="2.0090668"/>
+    </filter>
+    <filter id="filter3344">
+      <feGaussianBlur id="feGaussianBlur3346" stdDeviation="2.0090668"/>
+    </filter>
+    <radialGradient id="radialGradient3180" xlink:href="#linearGradient2175" gradientUnits="userSpaceOnUse" cy="276.12" cx="361.47" gradientTransform="matrix(-1.0937 .82403 -.53766 -.71363 961.56 181.22)" r="188.41"/>
+    <radialGradient id="radialGradient3183" xlink:href="#linearGradient2175" gradientUnits="userSpaceOnUse" cy="240.2" cx="329.68" gradientTransform="matrix(.38097 .42877 .80053 -.71130 -88.247 310.97)" r="188.41"/>
+  </defs>
+  <g id="layer1" transform="translate(-152.75 -182.32)">
+    <g id="g3190">
+      <path id="path3154" filter="url(#filter3228)" d="m260.05 212.02c-54.33 0.43-95.73 62.07-95.73 126.28 1.1 135 166.04 156.87 188.42 227.47 22.37-70.6 187.31-92.47 188.41-227.47 0-64.21-41.4-125.85-95.73-126.28-32.6-0.25-73.86 17.7-92.68 59.35-18.83-41.65-60.09-59.6-92.69-59.35z"/>
+      <path id="path2162" filter="url(#filter3332)" d="m258.05 208.02c-54.33 0.43-95.73 62.07-95.73 126.28 1.1 135 166.04 156.87 188.42 227.47 22.37-70.6 187.31-92.47 188.41-227.47 0-64.21-41.4-125.85-95.73-126.28-32.6-0.25-73.86 17.7-92.68 59.35-18.83-41.65-60.09-59.6-92.69-59.35z" fill="url(#radialGradient3180)"/>
+      <path id="path3232" opacity=".48" d="m443.42 208.02c54.33 0.43 95.73 62.07 95.73 126.28-1.1 135-166.04 156.87-188.41 227.47-22.38-70.6-187.32-92.47-188.42-227.47 0-64.21 41.4-125.85 95.73-126.28 32.6-0.25 73.86 17.7 92.69 59.35 18.82-41.65 60.08-59.6 92.68-59.35z" filter="url(#filter3344)" stroke="#000" fill="url(#radialGradient3183)"/>
+    </g>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Heart</dc:title>
+        <dc:date>2007-02-15T01:04:43</dc:date>
+        <dc:description>clip art, clipart, heart, heart, how i did it, icon, icon, image, love, love, media, png, public domain, red, red, svg, valentine, valentine, </dc:description>
+        <dc:source>http://openclipart.org/detail/3241/heart-by-sicabol</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Sicabol</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+            <rdf:li>heart</rdf:li>
+            <rdf:li>how i did it</rdf:li>
+            <rdf:li>icon</rdf:li>
+            <rdf:li>image</rdf:li>
+            <rdf:li>love</rdf:li>
+            <rdf:li>media</rdf:li>
+            <rdf:li>png</rdf:li>
+            <rdf:li>public domain</rdf:li>
+            <rdf:li>red</rdf:li>
+            <rdf:li>svg</rdf:li>
+            <rdf:li>valentine</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
